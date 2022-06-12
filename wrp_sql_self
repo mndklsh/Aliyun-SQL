@@ -1,0 +1,11 @@
+SQL structure query language  结构化查询语言
+增删改查
+C增R查U改D删
+
+根据RDBMS赋予的指令的种类不同，SQL语句可以分为以下三类
+DDL(data definition language)
+创建creat删除drop修改alter（库表列）
+DML(data manipulation language)
+查询select插入insert删除delete更新update（表列）
+DCL(data control language)
+确认变更 commit 取消变更 rollback 赋予用户权限 grant 取消权限 revoke
